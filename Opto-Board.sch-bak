@@ -192,7 +192,7 @@ U 1 1 5F8FD611
 P 2600 4520
 F 0 "J2" H 2680 4512 50  0000 L CNN
 F 1 "Screw_Terminal_01x08" H 2680 4421 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-8-5.08_1x08_P5.08mm_Horizontal" H 2600 4520 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-8_1x08_P5.00mm_Horizontal" H 2600 4520 50  0001 C CNN
 F 3 "~" H 2600 4520 50  0001 C CNN
 	1    2600 4520
 	0    1    1    0   
@@ -203,7 +203,7 @@ U 1 1 5F8FE576
 P 4020 4530
 F 0 "J3" H 4100 4522 50  0000 L CNN
 F 1 "Screw_Terminal_01x08" H 4100 4431 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-8-5.08_1x08_P5.08mm_Horizontal" H 4020 4530 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-8_1x08_P5.00mm_Horizontal" H 4020 4530 50  0001 C CNN
 F 3 "~" H 4020 4530 50  0001 C CNN
 	1    4020 4530
 	0    1    1    0   
@@ -214,7 +214,7 @@ U 1 1 5F8FF8DD
 P 1700 4520
 F 0 "J1" H 1780 4512 50  0000 L CNN
 F 1 "Screw_Terminal_01x08" H 1780 4421 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-8-5.08_1x08_P5.08mm_Horizontal" H 1700 4520 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-8_1x08_P5.00mm_Horizontal" H 1700 4520 50  0001 C CNN
 F 3 "~" H 1700 4520 50  0001 C CNN
 	1    1700 4520
 	0    1    1    0   
@@ -1292,37 +1292,37 @@ Wire Wire Line
 Connection ~ 6175 3550
 Wire Wire Line
 	6175 3550 6575 3550
-Text GLabel 2900 4320 1    50   Input ~ 0
-IN1+
 Text GLabel 2800 4320 1    50   Input ~ 0
+IN1+
+Text GLabel 2900 4320 1    50   Input ~ 0
 IN1-
-Text GLabel 2700 4320 1    50   Input ~ 0
-IN2+
 Text GLabel 2600 4320 1    50   Input ~ 0
+IN2+
+Text GLabel 2700 4320 1    50   Input ~ 0
 IN2-
-Text GLabel 2500 4320 1    50   Input ~ 0
-IN3+
 Text GLabel 2400 4320 1    50   Input ~ 0
+IN3+
+Text GLabel 2500 4320 1    50   Input ~ 0
 IN3-
-Text GLabel 2300 4320 1    50   Input ~ 0
-IN4+
 Text GLabel 2200 4320 1    50   Input ~ 0
+IN4+
+Text GLabel 2300 4320 1    50   Input ~ 0
 IN4-
-Text GLabel 2000 4320 1    50   Input ~ 0
-IN5+
 Text GLabel 1900 4320 1    50   Input ~ 0
+IN5+
+Text GLabel 2000 4320 1    50   Input ~ 0
 IN5-
-Text GLabel 1800 4320 1    50   Input ~ 0
-IN6+
 Text GLabel 1700 4320 1    50   Input ~ 0
+IN6+
+Text GLabel 1800 4320 1    50   Input ~ 0
 IN6-
-Text GLabel 1600 4320 1    50   Input ~ 0
-IN7+
 Text GLabel 1500 4320 1    50   Input ~ 0
+IN7+
+Text GLabel 1600 4320 1    50   Input ~ 0
 IN7-
-Text GLabel 1400 4320 1    50   Input ~ 0
-IN8+
 Text GLabel 1300 4320 1    50   Input ~ 0
+IN8+
+Text GLabel 1400 4320 1    50   Input ~ 0
 IN8-
 Text GLabel 3620 4330 1    50   Input ~ 0
 OUT1
@@ -1368,7 +1368,7 @@ U 1 1 5FA19278
 P 4940 4530
 F 0 "J4" V 4812 4610 50  0000 L CNN
 F 1 "Screw_Terminal_01x02" V 4903 4610 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal" H 4940 4530 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 4940 4530 50  0001 C CNN
 F 3 "~" H 4940 4530 50  0001 C CNN
 	1    4940 4530
 	0    1    1    0   
